@@ -6,15 +6,28 @@ Welcome to the Train Schedule Web Scraping project! This project focuses on scra
 
 In this project, we will be using web scraping techniques to extract train schedule data from a specific website. We will specify the source and destination stations, and the program will scrape the website to retrieve the train numbers and departure times for the specified route.
 
+**Languages and Libraries:**
+
+Python 
+BeautifulSoup library
+Requests library
+Selenium Web Driver
+Jupyter Notebook
+
 **Web Scraping Process**
 
 The web scraping process covers the following steps:
 
 Importing the required libraries.
+
 Sending a GET request to the website and retrieving the HTML content.
+
 Parsing the HTML content using BeautifulSoup.
+
 Locating the relevant elements in the HTML structure.
+
 Extracting the train numbers and departure times.
+
 Displaying the extracted information.
 
 **Results and Output**

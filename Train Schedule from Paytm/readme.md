@@ -9,9 +9,13 @@ In this project, we will be using web scraping techniques to extract train sched
 **Languages and Libraries:**
 
 Python 
+
 BeautifulSoup library
+
 Requests library
+
 Selenium Web Driver
+
 Jupyter Notebook
 
 **Web Scraping Process**
